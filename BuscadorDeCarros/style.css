@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.listaCarro {
+    border: 5px solid #000000;
+    border-radius: 5px;
+}
+
+.carros {
+    border: 2px groove rgb(255, 0, 0);
+    margin: 10px 0 10px 0;
+}
+
+.imagens {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 60%;
+}
+
+img {
+    border: 2px ridge #000000;
+    border-radius: 5px;
+}
+
+p {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+h1 {
+    background: #000000;
+    color: #ffffff;
+}
+
+button {
+    margin-bottom: 10px;
+    width: 100%;
+    
+}
